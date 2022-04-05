@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Engineering at Eulogio "Amang" Rodriguez Institute of Science and Technology
+- 🎓 &nbsp; Studying Computer Engineer at Eulogio "Amang" Rodriguez Institute of Science and Technology
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
