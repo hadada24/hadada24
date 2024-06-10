@@ -10,9 +10,9 @@
 
 - 🎓 &nbsp; Studying Computer Engineer at Eulogio "Amang" Rodriguez Institute of Science and Technology
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Systems Design.
 
-- ✍️ &nbsp; Pursuing Web Development and web Designing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Web Development and Web Designing as hobbies/side hustles.
 
 
 
